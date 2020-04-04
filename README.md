@@ -9,6 +9,9 @@ The flip animation is made with a rotateY() CSS property in the .card wich has t
 ## Resources
 
 1 - HTML
+
 2 - CSS
+
 3 - Image: https://images.wallpaperscraft.com/image/echeveria_succulent_pot_120694_1920x1080.jpg
+
 4 - Roboto Google Font 300, 700
